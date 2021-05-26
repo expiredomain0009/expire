@@ -1,0 +1,169 @@
+{
+  "data": [
+    {
+      "title": "Shopping",
+      "section": [
+        {
+          "name": "Flipkart",
+          "image": "http://static.dnaindia.com/sites/default/files/2015/09/22/378260-flipkart-twitter.png",
+          "url": "https://www.flipkart.com"
+        },
+        {
+          "name": "Amazon",
+          "image": "https://lh5.ggpht.com/TpxeOgptQworHjromT4yoo05oHk72dSE0pVQowPfb3u3rozTwLjYUHxTpEzIYMemomQ=w300",
+          "url": "https://www.amazon.com"
+        },
+        {
+          "name": "Paytm Mall",
+          "image": "http://indiafreestuff.in/wp-content/uploads/2017/04/PayTm-mall-app.jpg",
+          "url": "https://www.paytm.com"
+        },
+        {
+          "name": "Ebay",
+          "image": "http://www.brusmedia.com/wp-content/uploads/2015/09/ebay-marketplace.jpg",
+          "url": "https://www.ebay.in"
+        },
+        {
+          "name": "SnapDeal",
+          "image": "http://cdn.marketplaceimages.windowsphone.com/v8/images/ac1d2843-ea16-4177-887a-8da58459fe9e?imageType=ws_icon_large",
+          "url": "https://www.snapdeal.com"
+        },
+        {
+          "name": "GearBest",
+          "image": "https://icon.apkdot.com/com.globalegrow.app.gearbest.png",
+          "url": "https://www.gearbest.com"
+        },
+        {
+          "name": "Myntra",
+          "image": "http://static.dnaindia.com/sites/default/files/2015/08/03/361866-myntra-twitter.jpg",
+          "url": "https://www.myntra.com"
+        }
+      ]
+    },
+    {
+      "title": "Banking",
+      "section": [
+        {
+          "name": "SBI",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "PNB",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "HDFC",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "ICICI",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "BOI",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "IDBI",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "IOB",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Canara",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        }
+      ]
+    },
+    {
+      "title": "Recharge",
+      "section": [
+        {
+          "name": "Paytm",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "FreeCharge",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Mobokwik",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Jio Money",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Airtel Money",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Oxizon",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Payzap",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        }
+      ]
+    },
+    {
+      "title": "Study",
+      "section": [
+        {
+          "name": "MDU",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "MMU",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "DAV",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Sophia",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "Oxford",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "PU",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        },
+        {
+          "name": "LPU",
+          "image": "https://thecustomizewindows.com/wp-content/uploads/2011/11/Nicest-Android-Live-Wallpapers.png",
+          "url": "https://www.youtube.com"
+        }
+      ]
+    }
+  ]
+}
